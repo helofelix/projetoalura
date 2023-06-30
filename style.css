@@ -97,13 +97,4 @@
     font-size: 32px;
     color: var(--branco-principal);
  }
-.rodape__lista{
-    display: flex;
-    justify-content: center;
-    list-style-type: none;
-    margin-top: 1em;
-}
-.lista__link a{
-    text-decoration: none;
-    color: var(--branco-principal);
-}
+ 
